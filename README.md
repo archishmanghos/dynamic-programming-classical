@@ -1,0 +1,2 @@
+#### This repository is totally inspired from [Striver's DP Series on Youtube](https://www.youtube.com/playlist?list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY). All rights on notes belong to [TakeUForward](https://takeuforward.org/).
+###### The codes may have been inspired, may not, because they were completely written by me from the ground up. For viewing only optimised codes, please visit [this repo](https://github.com/archishmanghos/DSA-Contests/tree/master/Interviews/Striver-DP) as this is more organised!
