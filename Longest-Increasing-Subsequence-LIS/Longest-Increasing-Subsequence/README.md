@@ -4,9 +4,9 @@
 
 <details><summary>Most Optimised Code</summary>
 
-![](https://github.com/archishmanghos/code-images/blob/master/DP-Striver/Lec-41.png)
+![](https://github.com/archishmanghos/code-images/blob/master/DP-Striver/Lec-43.png)
 
 </details>
 
-<!-- Runtime: 1830 ms, faster than 7.01% of C++ online submissions for Longest Increasing Subsequence.
-Memory Usage: 292.3 MB, less than 8.95% of C++ online submissions for Longest Increasing Subsequence. -->
+<!-- Runtime: 11 ms, faster than 91.38% of C++ online submissions for Longest Increasing Subsequence.
+Memory Usage: 10.5 MB, less than 47.88% of C++ online submissions for Longest Increasing Subsequence. -->
